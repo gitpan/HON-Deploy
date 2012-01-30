@@ -1,0 +1,10 @@
+MANIFEST
+README
+Build.PL
+Changes
+lib/HON/Deploy.pm
+bin/hon-deploy-perl-distrib.pl
+t/pod.t
+Makefile.PL
+META.yml
+META.json
